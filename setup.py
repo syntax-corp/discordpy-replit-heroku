@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="discordpy-replit-heroku",
-    version="0.1.1",
+    version="0.1.2",
     author="John Doe",
     author_email="johndo3@repl.email",
     description="Hosting your repl based discord.py bot on Heroku to keep it running INDEFINETLY",
