@@ -32,3 +32,4 @@ You must have an account for [Discord](https://discord.com/register), [GitHub](h
 * Now you can tweak the main.py file as you please! just don't mess with the first 5 or last 2 lines (you can change the prefix in line 4 though.)
 
 ### Original code belongs to audieni. I just made it more suitable for repl.it bot creators. Visit his repository [here](https://github.com/audieni/discord-py-heroku)
+I forked from his though IDK why it doesnt say
