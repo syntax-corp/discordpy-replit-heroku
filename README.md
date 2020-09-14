@@ -30,6 +30,10 @@ You must have an account for [Discord](https://discord.com/register), [GitHub](h
 
 ### What's next?
 * Now you can tweak the main.py file as you please! just don't mess with the first 5 or last 2 lines (you can change the prefix in line 4 though.)
+* You can change the @app.route stiff in server.py
+* You can also change base.html and index.html without changing the stuff inside {% %} or {}, and you are able to change the css and js files freely
+* Don't change the rest of the files or the name of any file or folder unless you know what you're doing
+* Don't under any circumstances rename the "static" and "templates" folders
 
 ### Original code belongs to audieni. I just made it more suitable for repl.it bot creators. Visit his repository [here](https://github.com/audieni/discord-py-heroku)
 I forked from his though IDK why it doesnt say
