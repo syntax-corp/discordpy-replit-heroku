@@ -11,7 +11,7 @@ You must have an account for [Discord](https://discord.com/register), [GitHub](h
 
 ### 2. Create a new repository from this one
 * Create a new repository from this one [here](https://github.com/syntax-corp/discordpy-replit-heroku/generate). Follow all the prompts and hit "Create repository from template" This contains all the code you need to host your bot on Heroku.
-* Open a new tab and put in this link: https://repl.it/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+* Open a new tab and put in this link: https://repl.it/github/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_HERE
 
 ### 3. Set up Heroku
 * Create an application for Heroku [here](https://dashboard.heroku.com/new-app).
