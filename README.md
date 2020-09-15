@@ -1,6 +1,5 @@
 # Hosting your repl based discord.py bot on Heroku to keep it running **INDEFINETLY**
 [![Join Discord](https://discordapp.com/api/guilds/745448868040409148/widget.png?style=shield)](https://discord.gg/6GPjN8C)
-[![Run on Repl.it](https://repl.it/badge/github/syntax-corp/discordpy-replit-heroku)](https://repl.it/github/syntax-corp/discordpy-replit-heroku)
 
 ### Prerequisites
 You must have an account for [Discord](https://discord.com/register), [GitHub](https://github.com/join) , [Heroku](https://signup.heroku.com/), and [Repl.it](https://repl.it/signup) (you probably have an account already).
