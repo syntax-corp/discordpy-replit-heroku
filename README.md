@@ -9,9 +9,11 @@ You must have an account for [Discord](https://discord.com/register), [GitHub](h
 * Open up your new application and click 'Add Bot' under the Bot settings to create your bot.
 * After creating the bot, click the 'Copy' button under the title Token. Take note of your token as you will need it later.
 
-### 2. Create a new repository from this one and set it up to work with Heroku
+### 2. Create a new repository from this one
 * Create a new repository from this one [here](https://github.com/syntax-corp/discordpy-replit-heroku/generate). Follow all the prompts and hit "Create repository from template" This contains all the code you need to host your bot on Heroku.
 * Open a new tab and put in this link: https://repl.it/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+
+### 3. Set up Heroku
 * Create an application for Heroku [here](https://dashboard.heroku.com/new-app).
 * Under 'Deploy', do the following:
   * Deployment Method => Connect your GitHub
@@ -25,7 +27,7 @@ You must have an account for [Discord](https://discord.com/register), [GitHub](h
   * Click on the 'Pencil' icon.
   * Switch the worker from off to on.
   * Click 'Confirm' to finalize the decision.
-  * NOTE: You are given 550 free Dyno hours, which will not last the entire month. However, if you provide a credit card to verify your identity, you are given an additional 450 hours, which will allow your bot to run indefinitely. You will not be charged for this.
+  * NOTE: You are given 550 free Dyno hours, which will not last the entire month. However, if you provide a credit card to verify your identity, you are given an additional 450 hours, which will allow your bot to run indefinitely. **You will not be charged for this.**
 
 ### What's next?
 * Now you can tweak the main.py file as you please! just don't mess with the first 5 or last 2 lines (you can change the prefix in line 4 though.)
