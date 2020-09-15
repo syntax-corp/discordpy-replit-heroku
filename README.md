@@ -10,8 +10,8 @@ You must have an account for [Discord](https://discord.com/register), [GitHub](h
 * Open up your new application and click 'Add Bot' under the Bot settings to create your bot.
 * After creating the bot, click the 'Copy' button under the title Token. Take note of your token as you will need it later.
 
-### 2. Clone the GitHub repository and set it up to work with Heroku
-* Clone my Github repository into a repl [here](https://repl.it/github/syntax-corp/discordpy-replit-heroku). This contains all the code you need to host your bot on Heroku. You can also view it [here](https://github.com/syntax-corp/discordpy-replit-heroku)
+### 2. Fork the GitHub repository and set it up to work with Heroku
+* Fork my Github repository. This contains all the code you need to host your bot on Heroku. You can also view it [here](https://github.com/syntax-corp/discordpy-replit-heroku)
 * Link your repl to a GitHub repository
 * Create an application for Heroku [here](https://dashboard.heroku.com/new-app).
 * Under 'Deploy', do the following:
