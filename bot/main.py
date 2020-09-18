@@ -1,4 +1,4 @@
-import discord, os, PyNaCl, dnspython, server
+import discord, os, pynacl, dnspython, server
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix="!")
